@@ -5,3 +5,7 @@ scipy==1.10.1
 scikit-learn
 pandas
 streamlit
+pickle
+re
+joblib
+nltk
